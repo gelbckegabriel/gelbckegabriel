@@ -1,6 +1,19 @@
 ### Hi there 👋
 ## ...
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/></br>
+  
+  <div id="social networks">
+    <a href="https://www.linkedin.com/in/gabriel-gelbcke-874930159/" target="_blank">
+      <img = src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+  </div>
+
+</div>
+
+
+
 
 <!--
 **gelbckegabriel/gelbckegabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
