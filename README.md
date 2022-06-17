@@ -52,9 +52,8 @@
 ---
 
 ### :fire: My Stats :
+
 <div id="stats">
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelbckegabriel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelbckegabriel&hide=contribs,prs&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=gelbckegabriel&hide=contribs,prs&theme=highcontrast" height="140"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelbckegabriel&layout=compact&theme=vision-friendly-dark"></a>
 </div>
