@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
  
   </br>
   
@@ -57,3 +57,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=gelbckegabriel&hide=contribs,prs&theme=highcontrast" height="140"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelbckegabriel&layout=compact&theme=vision-friendly-dark"></a>
 </div>
+
+
+
+
+
+
+
+[comment]: <> (LINK FOR THE BADGES: https://shields.io/)
+[comment]: <> (LINK FOR THE STATS: https://github.com/anuraghazra/github-readme-stats#github-stats-card)
+[comment]: <> (LINK FOR THE LOGOS: https://github.com/devicons/devicon/tree/master/icons)
+[comment]: <> (LINK FOR THE STATS: https://github.com/anuraghazra/github-readme-stats#github-stats-card)
