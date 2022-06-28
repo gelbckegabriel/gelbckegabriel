@@ -7,10 +7,10 @@
     <a href="https://www.linkedin.com/in/gabriel-gelbcke-874930159/" target='_blank'>
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
-    <a href="https://www.instagram.com/gelbckegabriel/" target="_blank">
+    <a href="https://www.instagram.com/gelbckegabriel/" target='_blank'>
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
     </a>
-    <a href="mailto:gabrielgelbcke@gmail.com" target="_blank">
+    <a href="mailto:gabrielgelbcke@gmail.com" target='_blank'>
       <img src="https://img.shields.io/badge/GmAIL-critical?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
     </a>
   </div>
