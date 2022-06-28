@@ -19,7 +19,7 @@
  
  ---
  
- ### :man_technologist: About me:
+ ### :man_technologist: About me :
  
  I am currently entering the technology market learning about new programming languages with a focus on being a fullstack developer. <img src="https://media.giphy.com/media/S3W74K8gy3h1iI1x0L/giphy.gif" width="20">
  
