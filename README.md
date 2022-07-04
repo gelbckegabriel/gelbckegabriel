@@ -17,7 +17,7 @@
 
 </div>
  
- ---
+ <hr>
  
  ### :man_technologist: About me :
  
@@ -31,7 +31,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Gelbcke-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gelbcke-874930159/)
 
----
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="languagesAndTools">
@@ -50,7 +50,7 @@
 [comment]: <> (FUTURE TO LEARN NEXT: <img src="" alt="" height="40" width="40">)
 </div>
 
----
+<hr>
 
 ### :fire: My Stats :
 
