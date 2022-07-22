@@ -39,15 +39,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" height="40" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" height="40" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL Server Logo" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub Logo" height="40" width="40">
 
-[comment]: <> (FUTURE TO LEARN NEXT: <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" height="40" width="40">)
+[comment]: <> (FUTURE TO LEARN NEXT: )
 [comment]: <> (FUTURE TO LEARN NEXT: <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="AngularJS Logo" height="40" width="40">)
 [comment]: <> (FUTURE TO LEARN NEXT: <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" height="40" width="40">)
 [comment]: <> (FUTURE TO LEARN NEXT: <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" height="40" width="40">)
 [comment]: <> (FUTURE TO LEARN NEXT: <img src="" alt="" height="40" width="40">)
+[comment]: <> (FUTURE TO LEARN NEXT: <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL Server Logo" height="40" width="40">)
 </div>
 
 <hr>
