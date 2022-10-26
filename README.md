@@ -55,12 +55,12 @@
 
 ### :fire: My Stats :
 
-<p align="center">
+<div>
   <a href="https://github.com/gelbckegabriel" id="stats">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gelbckegabriel&hide=contribs,prs&theme=github_dark&hide_border=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelbckegabriel&layout=compact&theme=github_dark&hide_border=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gelbckegabriel&hide=contribs,prs&theme=github_dark&hide_border=true" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelbckegabriel&layout=compact&theme=github_dark&hide_border=true" />
   </a>
-</p>
+</div>
 
 
 
