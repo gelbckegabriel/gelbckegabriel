@@ -21,13 +21,13 @@
  
  ### :man_technologist: About me :
  
- I am currently entering the technology market learning about new programming languages with a focus on being a fullstack developer. <img src="https://media.giphy.com/media/S3W74K8gy3h1iI1x0L/giphy.gif" width="20">
+ I am currently entering the technology market learning about new programming languages with a focus on improving myself. <img src="https://media.giphy.com/media/S3W74K8gy3h1iI1x0L/giphy.gif" width="20">
  
 - :books: I'm studying "Systems Analysis and Development" at college.
 
 - :seedling: Exploring new forms of personal and professional development.
 
-- :zap: In my free time, I take additional programming courses and practice my skills to get better and better with it.
+- :zap: In my free time, I take additional I.T courses and practice my skills to get better and better with it.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Gelbcke-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gelbcke-874930159/)
 
