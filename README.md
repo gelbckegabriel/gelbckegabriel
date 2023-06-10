@@ -14,6 +14,12 @@
       <img src="https://img.shields.io/badge/GmAIL-critical?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
     </a>
   </div>
+      
+  </br>
+      
+  <div>
+    <img src="https://www.codewars.com/users/gelbckegabriel/badges/large" alt="CodeWars Badge" width="350px">
+  </div>
 
 </div>
  
@@ -37,18 +43,16 @@
 <div id="languagesAndTools">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" height="40" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" height="40" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" height="40" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub Logo" height="40" width="40">
 
 [comment]: <> (FUTURE TO LEARN NEXT: )
-[comment]: <> (FUTURE TO LEARN NEXT: <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="AngularJS Logo" height="40" width="40">)
-[comment]: <> (FUTURE TO LEARN NEXT: <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" height="40" width="40">)
-[comment]: <> (FUTURE TO LEARN NEXT: <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" height="40" width="40">)
 [comment]: <> (FUTURE TO LEARN NEXT: <img src="" alt="" height="40" width="40">)
+[comment]: <> (FUTURE TO LEARN NEXT: <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" height="40" width="40">)
 [comment]: <> (FUTURE TO LEARN NEXT: <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL Server Logo" height="40" width="40">)
+[comment]: <> (DON'T FEEL CONFIDENT TO PUT THERE: <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" height="40" width="40">)
 </div>
 
 <hr>
