@@ -18,7 +18,7 @@
   </br>
       
   <div>
-    <img src="https://www.codewars.com/users/gelbckegabriel/badges/large" alt="CodeWars Badge" width="350px">
+    <img src="https://www.codewars.com/users/GelbckeGabriel/badges/large" alt="CodeWars Badge" width="325px">
   </div>
 
 </div>
