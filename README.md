@@ -27,7 +27,7 @@
  
  ### :man_technologist: About me :
  
- I am currently entering the technology market learning about new programming languages with a focus on improving myself. <img src="https://media.giphy.com/media/S3W74K8gy3h1iI1x0L/giphy.gif" width="20">
+ I am passionate about technology, I'm always learning new things and have a desire to improve my knowledge in Python and JavaScript, with a keen interest in data analysis and engineering. Committed to leveraging programming skills to unravel insights and solve real-world problems. <img src="https://media.giphy.com/media/S3W74K8gy3h1iI1x0L/giphy.gif" width="20">
  
 - :books: I'm studying "Systems Analysis and Development" at college.
 
