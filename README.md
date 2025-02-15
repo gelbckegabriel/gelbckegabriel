@@ -27,13 +27,13 @@
  
  ### :man_technologist: About me :
  
- I am passionate about technology, I'm always learning new things and have a desire to improve my knowledge in Python and JavaScript, with a keen interest in data analysis and engineering. Committed to leveraging programming skills to unravel insights and solve real-world problems. <img src="https://media.giphy.com/media/S3W74K8gy3h1iI1x0L/giphy.gif" width="20">
+ I am passionate about technology, always learning new things and aiming to enhance my skills in Fullstack Development, Python, JavaScript, and data engineering. Committed to leveraging programming skills to unravel insights and solve real-world problems. <img src="https://media.giphy.com/media/S3W74K8gy3h1iI1x0L/giphy.gif" width="20">
  
-- :books: I'm studying "Systems Analysis and Development" at college.
+- :books: Graduated in "Systems Analysis and Development" at college.
+
+- :mortar_board: Currently pursuing Postgraduate degree in "Fullstack Development" at PUCRS.
 
 - :seedling: Exploring new forms of personal and professional development.
-
-- :zap: In my free time, I take additional I.T courses and practice my skills to get better and better with it.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Gelbcke-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gelbcke-874930159/)
 
@@ -43,13 +43,17 @@
 <div id="languagesAndTools">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" height="40" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" height="40" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" height="40" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub Logo" height="40" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" height="40" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# Logo" height="40" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core Logo" height="40" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" height="40" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular Logo" height="40" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" height="40" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure Logo" height="40" width="40">
 
-[comment]: <> (FUTURE TO LEARN NEXT: )
-[comment]: <> (FUTURE TO LEARN NEXT: <img src="" alt="" height="40" width="40">)
+
+[comment]: <> (FUTURE TO LEARN NEXT: <img src="" alt=" Logo" height="40" width="40">)
 [comment]: <> (FUTURE TO LEARN NEXT: <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" height="40" width="40">)
 [comment]: <> (FUTURE TO LEARN NEXT: <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL Server Logo" height="40" width="40">)
 [comment]: <> (DON'T FEEL CONFIDENT TO PUT THERE: <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" height="40" width="40">)
